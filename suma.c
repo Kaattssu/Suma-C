@@ -12,3 +12,5 @@
     printf("El resultado de la suma es %d\n",resultado);
     return 0;
  }
+
+/*Fin*/
